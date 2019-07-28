@@ -1,0 +1,60 @@
+.ustalan{
+	background-color: #405D9B;
+	min-height: 80px;
+}
+
+nav input{
+	padding: 0px !important;
+	border-radius: 0px !important;
+}
+.girisbuton{
+	font-size: 13px !important;
+	background-color:#405D9B !important;
+	font-family: Arial !important;
+}
+.naveposta{
+	position: absolute;
+	margin-top: -25px;
+	font-size: 12px;
+	font-family: Arial;
+	color: white;
+
+}
+.navsifre{
+	position: absolute;
+	margin-top: -25px;
+	font-size: 12px;
+	font-family: Arial;
+	color: white;
+	margin-left: 167px;
+}
+.navreset{
+
+	position: absolute;
+	margin-top: 25px;
+	font-size: 12px;
+	font-family: Arial;
+	color: #9CB4D0;
+	margin-left: 167px;
+
+}
+
+.gradian {
+	background: linear-gradient(white,#D4D9E8);
+	background: -webkit-linear-gradient(white,#D4D9E8);
+	background: -moz-linear-gradient(white,#D4D9E8);
+	background: -o-linear-gradient(white,#D4D9E8);
+}
+
+.dtarih{
+	padding: 0px;
+	width: 60px;
+	border-radius: 0px;
+	height: 35px;
+}
+
+
+.altmenuler {
+
+	font-size:13px;
+}
